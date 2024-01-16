@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234041667726",
+    "project_id": "ayomakan-813bf",
+    "storage_bucket": "ayomakan-813bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234041667726:android:c16d417db5a8d2e7cbd9df",
+        "android_client_info": {
+          "package_name": "com.example.ayomakan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdT5GxeKbwsA-wcQN9MUH7ZzaRGl1hGNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
